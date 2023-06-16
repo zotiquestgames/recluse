@@ -1,4 +1,3 @@
-# Recluse: Un motore per giocatori solitari
 "Recluse" di [Graven Utterance (Oliver N)](https://gravenutterance.itch.io/) è rilasciato con licenza CC BY 4.0. Buon divertimento!
 
 Ecco un semplice sistema di risposta che puoi usare per raccontare storie con colpi di scena inaspettati o come rimpiazzo per l'oracolo nel tuo emulatore GM preferito. (A me piacciono [so1um](https://zeruhur.space/so1um/so1um.html) e [CRGE](https://www.drivethrurpg.com/product/145426/CRGE-Conjectural-Roleplaying-GM-Emulator).) Le sue due caratteristiche principali sono:
